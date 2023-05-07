@@ -1,0 +1,58 @@
+mat-card {
+    width: 80%;
+    height: 80%;
+    align-self: center;
+    color: green;
+}
+.mat-icon {
+    margin-right: 10px;
+    vertical-align: middle;
+    background-color: rgb(33, 182, 28);
+
+  }
+
+mat-card-header {
+    display: initial;
+    background-color: rgb(33, 182, 28);
+
+}
+mat-card-content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(33, 182, 28);
+
+  }
+
+.div-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 80%;
+    color: #8B4513;
+
+}
+.main_component {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+    .container {
+      max-width: 1200px;
+      max-height: 50vh;
+      margin: 0 auto;
+      background-color: rgb(33, 182, 28);
+      padding: 20px;
+      border: 20px solid #8B4513;
+    }
+  }
+  .hatter{
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-image: url('../../376007-4k-wallpaper.jpg');
+
+
+}
