@@ -1,5 +1,18 @@
 {
   "projects": {
     "default": "billiardbarlangfirebasecloud"
-  }
+  },
+  "targets": {
+    "billiardbarlangfirebasecloud": {
+      "hosting": {
+        "billiardbarlangfirebasecloud": [
+          "billiardbarlangfirebasecloud"
+        ],
+        "kotelezoprogbilliard": [
+          "kotelezoprogbilliard"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
